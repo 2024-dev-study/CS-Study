@@ -1,12 +1,11 @@
 # CS-Study 📖
 CS 스터디 레포지터리 입니다.
 
-<br>
 
 ## ✔️ 스터디원
-|[![](https://github.com/.png?size=80)]()|[![](https://github.com/.png?size=80)]() |[![](https://github.com/ozoqzm.png?size=80)](https://github.com/ozoqzm) | [![](https://github.com/.png?size=80)]()|
+|[![](https://github.com/yjin-jo.png?size=80)](https://github.com/yjin-jo)|[![](https://github.com/somflower.png?size=80)](https://github.com/somflower) |[![](https://github.com/ozoqzm.png?size=80)](https://github.com/ozoqzm) | [![](https://github.com/.png?size=80)]()|
 |:---:|:---:|:---:|:---:|
-| 예진 | 미현 | 소정 | 소은 |
+| @yjin-jo | @somflower | @ozoqzm | @|
 <br>
 
 
