@@ -3,9 +3,9 @@ CS 스터디 레포지터리 입니다.
 
 
 ## ✔️ 스터디원
-|[![](https://github.com/yjin-jo.png?size=80)](https://github.com/yjin-jo)|[![](https://github.com/somflower.png?size=80)](https://github.com/somflower) |[![](https://github.com/ozoqzm.png?size=80)](https://github.com/ozoqzm) | [![](https://github.com/.png?size=80)]()|
+|[![](https://github.com/yjin-jo.png?size=80)](https://github.com/yjin-jo)|[![](https://github.com/somflower.png?size=80)](https://github.com/somflower) |[![](https://github.com/ozoqzm.png?size=80)](https://github.com/ozoqzm) | [![](https://github.com/soeun-nho.png?size=80)](https://github.com/soeun-nho)|
 |:---:|:---:|:---:|:---:|
-| @yjin-jo | @somflower | @ozoqzm | @|
+| @yjin-jo | @somflower | @ozoqzm | @soeun-nho |
 <br>
 
 
